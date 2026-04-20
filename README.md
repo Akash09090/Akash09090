@@ -30,4 +30,5 @@ Designed an AR app for smart glasses with real-time nav and point-of-interest re
 ## Connect
 💼 [LinkedIn](https://linkedin.com/in/akash-chavan-a4228b1ba)  
 📬 chavanakash18112001@gmail.com
+
 https://know-me-8dbt7ukjey.vercel.app/
